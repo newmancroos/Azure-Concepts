@@ -50,4 +50,8 @@ The shared responsibility model  defines a cloud security partnership where the 
 
 -   **Provider:**  Secures the application and the underlying infrastructure.
 -   **Customer:**  Is responsible for managing user access and ensuring data protection and account security.
--   
+
+<img width="963" height="596" alt="image" src="https://github.com/user-attachments/assets/dfcd3a5f-c572-4436-991c-8c05431ccef2" />
+
+
+
