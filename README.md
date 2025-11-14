@@ -1,6 +1,6 @@
 # Azure-Concepts
 
-# Azure Models
+# Azure Service Models
 
 IaaS, PaaS, and SaaS are  three models of cloud computing services. IaaS (Infrastructure as a Service) provides virtualized computing resources like servers and storage over the internet. PaaS (Platform as a Service) offers a platform for developers to build, run, and manage applications without managing the underlying infrastructure. SaaS (Software as a Service) delivers complete software applications over the internet, which users access on a subscription basis.
 
